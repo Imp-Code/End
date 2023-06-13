@@ -1,0 +1,62 @@
+body {
+    background-image: url(RedBinary.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.DivContainer {
+    background-color: black;
+    width: 25%;
+    height: 50%;
+    border-radius: 25%;
+}
+
+.Mode {
+    color: lightgreen;
+    font-size: 200%;
+}
+
+.switch {
+    font-size: 100%;
+    background-color: red;
+    border-color: darkgray;
+}
+
+.InputMSG {
+    font-size: 100%;
+    height: 20%;
+    text-align: center;
+}
+
+.InputKEY {
+    font-size: 100%;
+    width: 50%;
+    text-align: center;
+}
+
+.FunctionButton {
+    background-color: green;
+    color: white;
+    font-size: 150%;
+}
+
+.Mode2 {
+    color: red;
+    font-size: 200%;
+}
+
+.switch2 {
+    font-size: 100%;
+    background-color: green;
+    border-color: darkgray;
+}
+
+.FunctionButton2 {
+    background-color: red;
+    color: white;
+    font-size: 150%;
+}
